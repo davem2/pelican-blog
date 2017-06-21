@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>name.goes.here - manualcat</title><link href="/" rel="alternate"></link><link href="/feeds/manualcat.atom.xml" rel="self"></link><id>/</id><updated>2018-07-16T10:20:00-04:00</updated><entry><title>Test Title</title><link href="/test-title.html" rel="alternate"></link><published>2018-07-16T10:20:00-04:00</published><updated>2018-07-16T10:20:00-04:00</updated><author><name>David Maranhao</name></author><id>tag:None,2018-07-16:/test-title.html</id><summary type="html">&lt;p&gt;This post doesn't have an image.. I wonder how it will be handled. Fill up this so I get to see how it loops, or how bug its limited etc.. Hopefully it works, here goes&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post doesn't have an image.. I wonder how it will be handled. Fill up this so I get to see how it loops, or how bug its limited etc.. Hopefully it works, here goes&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Alt Text" src="/images/watercolor/wc010.jpg" style="width: 720px; height: auto; max-width: 100%;"/&gt;
+Now it has an image!&lt;/p&gt;
+&lt;p&gt;This &amp;amp; That&lt;/p&gt;
+&lt;p&gt;"Wow"&lt;/p&gt;</content><category term="watercolor"></category><category term="art"></category></entry></feed>
