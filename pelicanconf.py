@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'David Maranhao'
 SITENAME = 'name.goes.here'
-SITEURL = ''
+SITEURL = 'davem2.github.io'
 #GITHUB_URL = 'https://github.com/davem2'
 #GITHUB_POSITION = 'left'
 
