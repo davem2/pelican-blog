@@ -16,7 +16,7 @@
 <p>{{ article.summary|striptags }}</p>
 {% else %}
 <a href="{{ SITEURL }}/{{ article.url }}">
-    <img src="{{ article.featured_image }}">
+    <img src="{{ SITEURL }}/{{ article.featured_image }}">
 </a>
 {% endif %}
 </div>
