@@ -7,7 +7,7 @@
 <div class='figinline'>
 {% if article.category == "thumbonly" %}
 <a href="{{ SITEURL }}/{{ article.url }}">
-    <img src="{{ article.featured_image }}">
+    <img src="{{ SITEURL }}/{{ article.featured_image }}">
 </a>
 {% elif article.summarystyle == "titleandsummary" %}
 <a href="{{ SITEURL }}/{{ article.url }}">
