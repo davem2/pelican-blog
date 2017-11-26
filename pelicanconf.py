@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'David Maranhao'
 SITENAME = 'name.goes.here'
-SITEURL = 'http://localhost:8000/'
+SITEURL = ''
 #GITHUB_URL = 'https://github.com/davem2'
 #GITHUB_POSITION = 'left'
 
-STATIC_PATHS = ['extra/CNAME']
+STATIC_PATHS = ['images','extra/CNAME']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 #TYPOGRIFY = True
@@ -61,7 +61,7 @@ RESPONSIVE_IMAGES = True
 
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 #THEME = "/home/david/projects/pelican-themes/blueidea/"
 THEME = "/home/david/projects/website/theme/blueidea/"
