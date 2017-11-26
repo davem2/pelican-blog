@@ -8,6 +8,9 @@ SITEURL = 'http://localhost:8000/'
 #GITHUB_URL = 'https://github.com/davem2'
 #GITHUB_POSITION = 'left'
 
+STATIC_PATHS = ['extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
+
 #TYPOGRIFY = True
 
 PATH = 'content'
