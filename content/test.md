@@ -7,7 +7,7 @@ SummaryStyle: titleandsummary
 
 This post doesn't have an image.. I wonder how it will be handled. Fill up this so I get to see how it loops, or how bug its limited etc.. Hopefully it works, here goes
 
-![Alt Text]({filename}/images/watercolor/wc010.jpg)
+![Alt Text]({static}/images/watercolor/wc010.jpg)
 Now it has an image!
 
 This & That
