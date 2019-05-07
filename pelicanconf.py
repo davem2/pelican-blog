@@ -41,7 +41,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 #SOCIAL = (('GitHub', GITHUB_URL),
 #          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 14
+DEFAULT_PAGINATION = 30
 
 
 PLUGIN_PATHS = ['/home/david/projects/pelican-plugins/']
