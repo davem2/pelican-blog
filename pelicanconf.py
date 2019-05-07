@@ -45,8 +45,8 @@ DEFAULT_PAGINATION = 30
 
 
 PLUGIN_PATHS = ['/home/david/projects/pelican-plugins/']
-PLUGINS = ['representative_image','better_figures_and_images']
-#PLUGINS = ['photos', 'representative_image']
+PLUGINS = ['representative_image']
+#PLUGINS = ['photos', 'representative_image','better_figures_and_images']
 
 
 #PHOTO_LIBRARY = '/home/david/projects/website/content/images/photos'
